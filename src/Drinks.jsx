@@ -9,6 +9,11 @@ const drinkList = {
         name: "Coffee",
         type: "Hot",
         caffeineContent: "95 mg per cup"
+    },
+    soda: {
+        name: "Soda",
+        type: "Cold",
+        caffeineContent: "40 mg per can"
     }
 };
 

@@ -16,5 +16,6 @@ createRoot(document.getElementById('root')).render(
     */}
     <Drinks drink="tea" />
     <Drinks drink="coffee" />
+    <Drinks drink="soda" />
   </StrictMode>,
 )
